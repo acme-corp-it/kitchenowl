@@ -135,3 +135,4 @@ KitchenOwl is moving fast, to stay updated consider starring and watching the re
 ## 📜 License
 
 KitchenOwl is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the AGPL-3.0 License.
+Forking for Acme Corp
